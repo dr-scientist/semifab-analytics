@@ -1,0 +1,9 @@
+failure_pattern,yield_loss,cum_percent
+Center,1203.23,27.45
+Edge-Loc,760.46,44.81
+Near-full,593.47,58.35
+Random,580.58,71.6
+Loc,532.27,83.74
+Edge-Ring,494.94,95.03
+Scratch,157.29,98.62
+Donut,60.32,100.0
